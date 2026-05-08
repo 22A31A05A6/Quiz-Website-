@@ -1,16 +1,91 @@
-#Quiz App 🎯
+# Quiz App 🎯
 
-An interactive and responsive Quiz Application built using HTML, CSS, and JavaScript.
-This project allows users to answer multiple-choice questions, view their score, and interact with a clean user-friendly interface.
+A simple and interactive Quiz Application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to answer multiple-choice questions, track their scores, and enjoy a responsive user-friendly interface.
 
-#🚀 Features
-Multiple-choice quiz questions
-Instant answer validation
-Score tracking system
-Responsive design for all devices
-Simple and clean UI
-Dynamic question navigation
-#🛠️ Technologies Used
-HTML5 – Structure
-CSS3 – Styling & responsiveness
-JavaScript (ES6) – Functionality & quiz logic
+---
+
+## 🚀 Features
+
+- Multiple-choice quiz questions
+- Instant answer validation
+- Score tracking system
+- Responsive design
+- Easy-to-use interface
+- Dynamic question navigation
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📂 Project Structure
+
+```bash
+Quiz-App/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/quiz-app.git
+```
+
+2. Open the project folder
+
+```bash
+cd quiz-app
+```
+
+3. Run the `index.html` file in your browser
+
+---
+
+## 📸 Preview
+
+Responsive and modern quiz interface built with pure frontend technologies.
+
+---
+
+## 🧠 Concepts Used
+
+- DOM Manipulation
+- Event Handling
+- Arrays & Objects
+- Conditional Statements
+- Responsive Web Design
+
+---
+
+## 🚀 Future Improvements
+
+- Add quiz timer
+- Add dark mode
+- Add leaderboard system
+- Store scores using Local Storage
+- Add more quiz categories
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+---
