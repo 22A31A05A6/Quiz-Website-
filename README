@@ -1,0 +1,16 @@
+#Quiz App 🎯
+
+An interactive and responsive Quiz Application built using HTML, CSS, and JavaScript.
+This project allows users to answer multiple-choice questions, view their score, and interact with a clean user-friendly interface.
+
+#🚀 Features
+Multiple-choice quiz questions
+Instant answer validation
+Score tracking system
+Responsive design for all devices
+Simple and clean UI
+Dynamic question navigation
+#🛠️ Technologies Used
+HTML5 – Structure
+CSS3 – Styling & responsiveness
+JavaScript (ES6) – Functionality & quiz logic
